@@ -1,0 +1,143 @@
+body {
+    background-image: url(https://www.findabusinessthat.com/blog/wp-content/uploads/2018/05/how-to-start-a-plumbing-business.jpeg);
+    font-family: tahoma;
+    font-size: 16px;   
+    background-attachment: fixed;
+  }
+  
+  h1, p {
+    margin: 1em auto;
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  em {
+    color: red;
+  }
+  
+  label {
+    display: block;
+    margin: 15px 0 0 16%
+  }
+  
+  fieldset[type="1"] {
+    width:585px;
+    margin-left: 32px;
+  }
+  
+  select {
+  width: 10%;
+  height:2%;
+  }
+  
+  input,
+  textarea {
+    margin: -10px 0 10px 0%;
+    width: 510px;
+    min-height: 2em;
+  }
+  
+  label[for="name"], label[for="email"], label[for="number"] {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  input[id="name"], input[id="email"], input[id="number"] {
+    margin: 10px 0 0 0;
+    
+  }
+  fieldset[type="2"] {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    
+  }
+  
+   select, textarea {
+    margin: 0 0 0 16%
+  }
+  
+  .inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+  }
+  .form {
+    background-color: rgba(255, 255, 255, 75%);
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 750px;
+    padding-bottom: 40px;
+    margin-top: 135px;
+  }
+  
+  hr {
+    border: 3px solid rgba(50, 220, 255, 90%);
+    max-width: 500px;
+    box-shadow: 0px 4px 6px 0px rgba(50, 150, 255, 100%);
+  
+  }
+  fieldset {
+    border: none;
+    }
+  
+  h3, h4 {
+  
+    text-align: center;
+  }
+  
+  textarea {
+    width: 500px; 
+  }
+  
+  hr:first-of-type {
+    width: 250px;
+    margin: 3px auto;
+    background: linear-gradien(rgba(50, 220, 255, 90%));
+    box-shadow: 0px 4px 6px 0px rgba(50, 150, 255, 100%);
+  }
+  
+  hr:last-of-type {
+    width: 250px;
+    margin: 3px auto;
+    background: linear-gradien(rgba(50, 220, 255, 90%));
+    box-shadow: 0px 4px 6px 0px rgba(50, 150, 255, 100%);
+  }
+  
+  input[type="submit"] {
+    width: 19%;
+    display: block;
+    margin: 2em auto;
+    box-shadow: 0px 5px 20px 0px #000000;
+    font-size: 0.9rem;
+    min-height: 2em;
+    ;
+  
+  }
+  
+  .image-6 {
+    margin: 0 auto;
+    display:  block; 
+    margin-bottom: -10px;
+    box-shadow: 0px 5px 20px 0 rgba(50, 150, 255, 90%);
+  
+  }
+  
+  
+  .image-1, .image-2, .image-3, .image-4, .image-5 {
+  margin-left: 19.58rem;
+  margin-right: -19.9rem;
+  margin-top: -10px
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 1em;
+  }
+  a {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
